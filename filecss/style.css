@@ -1,6 +1,15 @@
-header{
+*{
+  margin: 0;
+}
+/* header */
+.title-img{
+  background-image: url("../img/pattern.png");
   background-size: contain;
-  background-image: url(../img/pattern.png);
+  background-position: center;
+  background-color: cornflowerblue;
 }
 .logo{
+  width: 15%;
+  height: 15%;
+  padding: 40px 0px 10px 110px;
 }

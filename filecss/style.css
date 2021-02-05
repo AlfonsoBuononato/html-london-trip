@@ -1,15 +1,29 @@
 *{
   margin: 0;
 }
-/* header */
-.title-img{
+
+.container-img{
   background-image: url("../img/pattern.png");
   background-size: contain;
   background-position: center;
   background-color: cornflowerblue;
 }
+
+.title-img{
+  width: 1000px;
+  margin: auto;
+}
 .logo{
-  width: 15%;
-  height: 15%;
-  padding: 40px 0px 10px 110px;
+  width: 20%;
+  height: 20%;
+  margin-top: 40px;
+}
+
+.contenuto{
+  width: 1000px;
+  margin: auto;
+}
+
+h1{
+  font-size: 40px;
 }
